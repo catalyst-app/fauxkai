@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			Fauxkai | The best fox and wolf pair
+		</title>
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.js"></script>
+		<script src="js/main.js"></script>
+
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.css" rel="stylesheet" />
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+		<link href="css/overall.css" rel="stylesheet" />
+		<link href="css/color.css.php?hex=ffc107" rel="stylesheet" />
+
+		<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+		<meta content="width=device-width, initial-scale=1, maximum-scale=1.0" name="viewport" />
+		<meta charset="utf-8" />
+		<meta name="description" content="Fauxkai | The best fox and wolf pair"/>
+		<meta name="keywords" content="Fauxkai"/>
+		<meta name="subject" content="Fox, wolf, love, fauxkai"/>
+		<meta name="copyright" content="Fauxkai"/>
+		<meta name="language" content="EN"/>
+		<meta name="robots" content="index,follow"/>
+		<meta name="author" content="Fauxil Fox and Lykai"/>
+		<meta name="designer" content="Fauxil Fox and Lykai"/>
+
+		<!-- Apple -->
+		<meta name="apple-mobile-web-app-title" content="Fauxil and Lykai"/>
+		<meta name="apple-mobile-web-app-capable" content="yes"/>
+		<meta name="apple-touch-fullscreen" content="yes"/>
+		<meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+		<meta name="format-detection" content="telephone=no"/>
+		<link href="https://xn--fp8h58f.ws/img/img_both.png" rel="apple-touch-icon" type="image/png"/>
+		<link href="https://xn--fp8h58f.ws/img/img_both.png" rel="apple-touch-icon-precomposed" type="image/png"/>
+		<link href="https://xn--fp8h58f.ws/img/img_both.png" rel="apple-touch-icon" type="image/png"/>
+		<link href="https://xn--fp8h58f.ws/img/img_both.png" rel="apple-touch-icon-precomposed" type="image/png"/>
+		<link rel="mask-icon" href="https://xn--fp8h58f.ws/img/img_both.png" color="amber"/>
+
+		<!-- IE -->
+		<meta name="msapplication-tooltip" content="The best fox and wolf pair"/>
+		<meta http-equiv="Page-Enter" content="RevealTrans(Duration=2.0,Transition=2)"/>
+		<meta http-equiv="Page-Exit" content="RevealTrans(Duration=3.0,Transition=12)"/>
+		<meta name="mssmarttagspreventparsing" content="true"/>
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+		<meta name="msapplication-starturl" content="https://xn--fp8h58f.ws/"/>
+		<meta name="msapplication-window" content="width=800;height=600"/>
+		<meta name="msapplication-navbutton-color" content="amber"/>
+		<meta name="application-name" content="Fauxkai"/>
+		<meta http-equiv="cleartype" content="on"/>
+
+		<!-- win 8+ -->
+		<meta name="application-name" content="Fauxkai"/>
+		<meta name="msapplication-TileColor" content="#ffc107"/>
+		<meta name="msapplication-square70x70logo" content="img/img_both.png"/>
+
+		<!-- opengraph -->
+		<meta property="og:title" content="Fauxkai | The best fox and wolf pair"/>
+		<meta property="og:url" content="https://xn--fp8h58f.ws/"/>
+		<meta property="og:image" content="https://xn--fp8h58f.ws/img/img_both.png"/>		
+		<meta property="og:description" content="There's no other combination quite as amazing and lovely :3"/>
+		<meta property="og:site_name" content="Fauxkai"/>
+		<meta property="og:locale" content="en_US"/>
+
+		<!-- twitter -->
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:site" content="https://xn--fp8h58f.ws/" />
+		<meta name="twitter:title" content="Fauxkai | The best fox and wolf pair" />
+		<meta name="twitter:description" content="There's no other combination quite as amazing and lovely :3" />
+		<meta name="twitter:image" content="https://xn--fp8h58f.ws/img/img_both.png" />
+
+		<!-- link tags -->
+		<link rel='shortcut icon' type='image/png' href='https://xn--fp8h58f.ws/img/img_both.png'/>
+		<link rel='fluid-icon' type='image/png' href='https://xn--fp8h58f.ws/img/img_both.png'/>
+		<link rel="canonical" href="https://xn--fp8h58f.ws/"/>
+		<link rel="image_src" href="https://xn--fp8h58f.ws/img/img_both.png" type="image/png"/>
+	</head>
+	<body>
+		<div class="row">
+			<div class="green darken-4 no-padding col s6">
+				<h1 class="white-text right-align">Faux</h1>
+				
+				<div class="row">
+					<img style="height: 8em; width: auto;" data-base="img/fox-" data-cur="1" data-max="8" data-suffix=".png" class="right rotating-image col offset-s4 s8 offset-m6 m6 offset-l8 l4" src="img/fox-1.png">
+				</div>
+
+				<h3 style="border-right: 2px solid white; padding-right: .25em;" class="no-top-margin white-text right-align">Fauxil Fox</h3>
+			</div>
+			<div class="lykai-2 no-padding col s6">
+				<h1 class="white-text left-align">kai</h1>
+
+				<div class="row">
+					<img style="height: 8em; width: auto;" data-base="img/wolf-" data-cur="1" data-max="8" data-suffix=".png" class="left rotating-image col s8 m6 l4" src="img/wolf-1.png">
+				</div>
+
+				<h3 style="border-left: 2px solid white; padding-left: .25em;" class="no-top-margin white-text">Lykai</h3>
+			</div>
+		</div>
+	</body>
+</html>
