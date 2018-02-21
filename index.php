@@ -77,7 +77,7 @@
 		<link rel="image_src" href="https://xn--fp8h58f.ws/img/img_both.png" type="image/png"/>
 	</head>
 	<body class="grey white-text">
-		<div class="row">
+		<div class="row" style="white-space: nowrap;">
 <?php $randomImg = random_int(1, 8); ?>
 			<div class="green darken-4 no-padding col s6">
 				<h1 class="right-align">Faux</h1>
