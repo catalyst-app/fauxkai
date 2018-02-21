@@ -76,25 +76,34 @@
 		<link rel="canonical" href="https://xn--fp8h58f.ws/"/>
 		<link rel="image_src" href="https://xn--fp8h58f.ws/img/img_both.png" type="image/png"/>
 	</head>
-	<body>
+	<body class="grey white-text">
 		<div class="row">
+<?php $randomImg = random_int(1, 8); ?>
 			<div class="green darken-4 no-padding col s6">
-				<h1 class="white-text right-align">Faux</h1>
+				<h1 class="right-align">Faux</h1>
 				
 				<div class="row">
-					<img style="height: 8em; width: auto;" data-base="img/fox-" data-cur="1" data-max="8" data-suffix=".png" class="right rotating-image col offset-s4 s8 offset-m6 m6 offset-l8 l4" src="img/fox-1.png">
+					<img style="height: 8em; width: auto;" data-base="img/fox-" data-cur="<?= $randomImg ?>" data-max="8" data-suffix=".png" class="right rotating-image col offset-s4 s8 offset-m6 m6 offset-l8 l4" src="img/fox-<?= $randomImg ?>.png">
 				</div>
 
-				<h3 style="border-right: 2px solid white; padding-right: .25em;" class="no-top-margin white-text right-align">Fauxil Fox</h3>
+				<h3 style="border-right: 2px solid white; padding-right: .25em;" class="no-top-margin  right-align">Fauxil Fox</h3>
+
+				<h4 class="right-align"><a href="https://🦊🐺.ws/" class="white-text">https://🦊</a></h4>
+				
+				<p class="right-align"><a href="https://xn--fp8h58f.ws/" class="white-text">https://xn--</a></p>
 			</div>
 			<div class="lykai-2 no-padding col s6">
-				<h1 class="white-text left-align">kai</h1>
+				<h1 class="left-align">kai</h1>
 
 				<div class="row">
-					<img style="height: 8em; width: auto;" data-base="img/wolf-" data-cur="1" data-max="8" data-suffix=".png" class="left rotating-image col s8 m6 l4" src="img/wolf-1.png">
+					<img style="height: 8em; width: auto;" data-base="img/wolf-" data-cur="<?= $randomImg ?>" data-max="8" data-suffix=".png" class="left rotating-image col s8 m6 l4" src="img/wolf-<?= $randomImg ?>.png">
 				</div>
 
-				<h3 style="border-left: 2px solid white; padding-left: .25em;" class="no-top-margin white-text">Lykai</h3>
+				<h3 style="border-left: 2px solid white; padding-left: .25em;" class="no-top-margin ">Lykai</h3>
+
+				<h4 class="left-align"><a href="https://🦊🐺.ws/" class="white-text">🐺.ws/</a></h4>
+
+				<p class="left-align"><a href="https://xn--fp8h58f.ws/" class="white-text">fp8h58f.ws/</a></p>
 			</div>
 		</div>
 	</body>
