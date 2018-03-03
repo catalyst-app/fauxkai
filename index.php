@@ -121,7 +121,7 @@
 				<p class="flow-text no-top-margin right-align"><em>-IGN*</em></p>
 
 				<p class="flow-text no-bottom-margin"><em>&ldquo;They're absolutely <strong>purrfect</strong> for each other!  I can't <strong>bear</strong> their sheer awesomeness, they deserve a huge <strong>appawse</strong> for their amazingness!  It's <strong>knot</strong> every day you see a pair this awesome!&rdquo;</em></p>
-				<p class="flow-text no-top-margin right-align"><em>-That one guy*</em></p>
+				<p class="flow-text no-top-margin right-align"><em class="tooltipped" data-tooltip="(SockHungryClutz)" data-delay="50">-That one guy</em></p>
 
 				<p><s>*These quotes weren't made by these people/organizations, but, given the opportunity, they likely would have been.</s></p>
 			</div>	

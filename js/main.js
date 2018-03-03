@@ -8,5 +8,6 @@
 				$(e).attr("src", $(e).attr("data-base")+$(e).attr("data-cur")+$(e).attr("data-suffix"));
 			});
 		}, 1000);
+		$(".tooltipped").tooltip();
 	});
 })(jQuery);
